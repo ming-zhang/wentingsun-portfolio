@@ -278,6 +278,12 @@ header .header-content .header-content-inner p {
   padding-right: 0;
   padding-left: 0;
 }
+footer {
+    padding: 50px 0;
+}
+footer p {
+    margin: 0;
+}
 .btn-default {
   color: #222222;
   background-color: #ffffff;
